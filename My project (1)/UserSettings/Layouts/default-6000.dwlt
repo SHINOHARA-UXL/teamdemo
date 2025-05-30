@@ -15,7 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 30
-    y: 347
+    y: 79
     width: 1440
     height: 822
   m_ShowMode: 4
@@ -303,8 +303,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 288.5
-    y: 383
+    x: 259.5
+    y: 24
     width: 816.5
     height: 449
   m_SerializedDataModeController:
@@ -1002,8 +1002,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60a50000
-      m_LastClickedID: 42336
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: e0f7ffff3ea50000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1235,7 +1235,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: c8a50000
     m_LastClickedID: 42440
-    m_ExpandedIDs: 00000000c8a50000ffffff7f
+    m_ExpandedIDs: 000000004aa50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1264,7 +1264,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c8a50000
+    m_ExpandedIDs: 000000004aa50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
